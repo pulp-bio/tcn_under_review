@@ -1,7 +1,7 @@
 # Tiny TCN by Zanghieri *et al*. (UNDER REVIEW)
 
 This repository implements the Temporal Convolutional Network (TCN) [[1]](#1) [[2]](#2) presented in a manuscript by M. Zanghieri *et al*. [[3]](#3) currently under review at the IEEE *Access* journal.
-We provide this as a supplementary documentation for the peer-review now in progress.
+We provide this as supplementary documentation for the peer review now in progress.
 This small project is a preview of the TCN implementation; upon acceptance of the paper, we will publish the whole curated dataset and code developed for the project.
 For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [[4]](#4).
 
@@ -9,7 +9,7 @@ For a **technical report** about an earlier stage of the same research project, 
 
 ## Usage
 
-The files expose the TCN's implementation and PyTorch, and already contain the generated TCN's structure's table in the file ``tcn_table.txt``.
+The files expose the TCN's implementation and PyTorch and the file ``tcn_table.txt`` already contains the generated TCN's structure table.
 
 The requirements (see ``requirements.txt``) are the Python packages PyTorch 1.9.0 and torchinfo 1.8.0, quickly installable via the shell with
 ```
@@ -19,14 +19,14 @@ The TCN is implemented in the module ``tcn.py``.
 1. Run ``visualize_tcn_table.ipynb`` (or equivalently ``visualize_tcn_table.py``) to generate the TCN, its ``torchinfo.ModelStatistics``, and the printed table.
 2. See the printed table in the standard output or in the file ``tcn_table.txt``.
 
-The generated output file is identical to the one we already available in the repository.
+The generated output file is identical to the one already available in the repository.
 
 
 
 ## Authors
 
 The manuscript documented by this repository involves several authors.
-The piece of work reported here is developed at the Energy-Efficient Embedded Systems (EEES) Lab of University of Bologna (Italy) by:
+The piece of work reported here was developed at the **Energy-Efficient Embedded Systems (EEES) Lab** of University of Bologna (Italy) by:
 - [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (Conceptualization, Software, Analysis)
 - [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en) (Supervision, Funding Acquisition)
 - [Prof. Luca Benini](https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en) (Supervision, Funding Acquisition)
@@ -37,7 +37,7 @@ Prof. Luca Benini is also with the ETH Zürich (Switzerland).
 
 ## Citation
 
-This work is still under review.
+(This work is still under review.)
 
 
 
