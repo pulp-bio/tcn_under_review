@@ -4,11 +4,11 @@
 
 ## Introduction
 
-This repository implements the Temporal Convolutional Network (TCN) [1, 2] presented in a manuscript by M. Zanghieri *et al*. [3] currently under peer-review at the IEEE *Access* journal.
+This repository implements the Temporal Convolutional Network (TCN) [[1]](#1) [[2]](#2) presented in a manuscript by M. Zanghieri *et al*. [[3]](#3) currently under peer-review at the IEEE *Access* journal.
 
 We provide this as a supplementary documentation for the peer-review, which is in progress.
 
-For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [4].
+For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [[4]](#4).
 
 
 
@@ -44,15 +44,17 @@ This work is still under review.
 
 ## References
 
-[1] C. Lea *et al*., "Temporal convolutional networks for action segmentation and detection," *CoRR*, vol. [abs/1611.05267](https://doi.org/10.48550/arXiv.1611.05267), 2016.
+<a id="1">[1]</a>
+C. Lea *et al*., "Temporal convolutional networks for action segmentation and detection," *CoRR*, vol. [abs/1611.05267](https://doi.org/10.48550/arXiv.1611.05267), 2016.
 
-[2] S. Bai *et al*., "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling," *CoRR*,
-vol. [abs/1803.01271](https://doi.org/10.48550/arXiv.1803.01271), 2018.
+<a id="2">[2]</a>
+S. Bai *et al*., "An empirical evaluation of generic convolutional and recurrent networks for sequence modeling," *CoRR*, vol. [abs/1803.01271 (https://doi.org/10.48550/arXiv.1803.01271), 2018.
 
-[3] M. Zanghieri *et al*., MANUSCRIPT UNDER REVIEW, [*IEEE Access*](https://ieeeaccess.ieee.org/).
+<a id="3">[3]</a>
+M. Zanghieri *et al*., MANUSCRIPT UNDER REVIEW, [*IEEE Access*](https://ieeeaccess.ieee.org/).
 
-[4] F. Conti *et al*., "AI-powered collision avoidance safety system for industrial woodworking machinery," in *AI4DI – Applications*. River
-Publishers, 2021. DOI: [10.1201/9781003337232-17](https://www.doi.org/10.1201/9781003337232-17).
+<a id="4">[4]</a>
+F. Conti *et al*., "AI-powered collision avoidance safety system for industrial woodworking machinery," in *AI4DI – Applications*. River Publishers, 2021. DOI: [10.1201/9781003337232-17](https://www.doi.org/10.1201/9781003337232-17).
 
 
 
