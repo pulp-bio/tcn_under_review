@@ -31,13 +31,14 @@ The piece of work reported here is developed at the Energy-Efficient Embedded Sy
 - [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (Conceptualization, Software, Analysis)
 - [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en) (Supervision, Funding Acquisition)
 - [Prof. Luca Benini](https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en) (Supervision, Funding Acquisition)
+
 Prof. Luca Benini is also with the ETH Zürich (Switzerland).
 
 
 
 ## Citation
 
-The work is still under review.
+This work is still under review.
 
 
 
