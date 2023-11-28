@@ -1,13 +1,7 @@
-# Temporal Convolutional Network by Zanghieri *et al*. (UNDER REVIEW)
-
-
-
-## Introduction
+# Tiny TCN by Zanghieri *et al*. (UNDER REVIEW)
 
 This repository implements the Temporal Convolutional Network (TCN) [[1]](#1) [[2]](#2) presented in a manuscript by M. Zanghieri *et al*. [[3]](#3) currently under peer-review at the IEEE *Access* journal.
-
 We provide this as a supplementary documentation for the peer-review, which is in progress.
-
 For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [[4]](#4).
 
 
@@ -15,9 +9,9 @@ For a **technical report** about an earlier stage of the same research project, 
 ## Usage
 
 The requirements (see ``requirements.txt``) are the Python packages PyTorch (v. 1.9.0) and torchinfo (v. 1.8.0), which can be quickly installed via the shell with the command
-
-``> python -m pip install -r requirements.txt``
-
+```
+> python -m pip install -r requirements.txt``
+```
 The TCN is implemented in the module ``tcn.py``.
 1. Run ``visualize_tcn_table.ipynb`` (or equivalently ``visualize_tcn_table.py``) to generate the TCN, its ``torchinfo.ModelStatistics``, and the printed table.
 2. See the printed table in the standard output or in the file ``tcn_table.txt``.
