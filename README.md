@@ -8,9 +8,9 @@ For a **technical report** about an earlier stage of the same research project, 
 
 ## Usage
 
-The requirements (see ``requirements.txt``) are the Python packages PyTorch (v. 1.9.0) and torchinfo (v. 1.8.0), which can be quickly installed via the shell with the command
+The requirements (see ``requirements.txt``) are the Python packages PyTorch 1.9.0 and torchinfo 1.8.0, quickly installable via the shell with
 ```
-> python -m pip install -r requirements.txt``
+> python -m pip install -r requirements.txt
 ```
 The TCN is implemented in the module ``tcn.py``.
 1. Run ``visualize_tcn_table.ipynb`` (or equivalently ``visualize_tcn_table.py``) to generate the TCN, its ``torchinfo.ModelStatistics``, and the printed table.
