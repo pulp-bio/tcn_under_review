@@ -1,7 +1,7 @@
 # Tiny TCN by Zanghieri *et al*. (UNDER REVIEW)
 
 This repository implements the Temporal Convolutional Network (TCN) [[1]](#1) [[2]](#2) presented in a manuscript by M. Zanghieri *et al*. [[3]](#3) currently under review at the IEEE *Access* journal.
-We provide this as a supplementary documentation for the peer-review, which is in progress.
+We provide this as a supplementary documentation for the peer-review now in progress.
 For a **technical report** about an earlier stage of the same research project, please refer to F. Conti *et al*. [[4]](#4).
 
 
