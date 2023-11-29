@@ -9,6 +9,10 @@ For a **technical report** about an earlier stage of the same research project, 
 
 ## Usage
 
+To run this small project, clone this repository:
+```
+git clone git@github.com:pulp-bio/tcn_under_review.git
+```
 The files expose the TCN's implementation and PyTorch and the file ``tcn_table.txt`` already contains the generated TCN's structure table.
 
 The requirements (see ``requirements.txt``) are the Python packages PyTorch 1.9.0 and torchinfo 1.8.0, quickly installable via the shell with
