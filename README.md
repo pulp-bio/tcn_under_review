@@ -41,8 +41,7 @@ Prof. Luca Benini is also with the ETH Zürich (Switzerland).
 
 ## Citation
 
-(This work is still under review.)
-
+```
 @article{key ,
     author = {Zanghieri, Marcello and others},
     title = {{MANUSCRIPT UNDER REVIEW}},
@@ -52,6 +51,7 @@ Prof. Luca Benini is also with the ETH Zürich (Switzerland).
     number = {-},
     pages = {--}
 }
+```
 
 
 
