@@ -43,7 +43,7 @@ Prof. Luca Benini is also with the ETH Zürich (Switzerland).
 
 ```
 @article{key ,
-    author = {Zanghieri, Marcello and others},
+    author = {Zanghieri, M. and others},
     title = {{MANUSCRIPT UNDER REVIEW}},
     journal = {IEEE Access},
     volume = {-},
