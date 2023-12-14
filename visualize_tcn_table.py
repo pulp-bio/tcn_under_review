@@ -20,6 +20,16 @@
 
 from tcn import TCN, summarize
 
+# As explained in the manuscript's Subsection III-E, "Temporal Convolutional
+# Network: Structure, Training, and Deployment," Batch-norm (BN) folding is
+# used after training to merge each BN with its previous layer, slightly
+# reducing the number of parameters and operations.
+
+# The network's structure and size that we are interested in is the final one
+# deployed and executed on the MCU. So, we call our ``TCN``'s constructor with
+# the flag ``bn = False``, which omits BN's, and the flag ``bias = True``,
+# which accounts for the biases that each folded BN confers to its previous
+# linear layer (either 1d-convolutional or dense).
 
 bias = True
 bn = False
