@@ -32,8 +32,8 @@ The generated output file is identical to the one already available in the repos
 The manuscript documented by this repository involves several authors.
 The piece of work reported here was developed at the **Energy-Efficient Embedded Systems (EEES) Lab** of University of Bologna (Italy) by:
 - [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (Conceptualization, Software, Analysis)
-- [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en) (Supervision, Funding Acquisition)
-- [Prof. Luca Benini](https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en) (Supervision, Funding Acquisition)
+- [Prof. Francesco Conti](https://scholar.google.it/citations?user=A70PCXoAAAAJ&hl=en) (Supervision, Funding acquisition)
+- [Prof. Luca Benini](https://scholar.google.com/citations?user=8riq3sYAAAAJ&hl=en) (Supervision, Funding acquisition)
 
 Prof. Luca Benini is also with the ETH Zürich (Switzerland).
 
